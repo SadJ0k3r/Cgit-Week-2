@@ -13,13 +13,13 @@ div.section {
   margin-top: 0;
   margin-bottom: 10px;
   border: 2px solid black;
-  background-color: blue;
+  background-color: #7CFC00;
   
 }
 
 #tip1 {
-  background-color: ##7FFF00;
-  height: 20px;
+  background-color: #7FFF00;
+  height: 40px;
   width: 100px;
   float: right;
   position: relative;
@@ -33,7 +33,7 @@ div.section {
 
 #tip2 {
   background-color: black;
-  height: 20px;
+  height: 40px;
   width: 100px;
   float: right;
   position: relative;
