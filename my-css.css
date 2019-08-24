@@ -13,7 +13,7 @@ div.section {
   margin-top: 0;
   margin-bottom: 10px;
   border: 2px solid black;
-  background-color: #7CFC00;
+  background-color: #b7b8b8;
   
 }
 
@@ -58,6 +58,7 @@ div.section {
   color: black;
   margin-top: 0;
   margin-right: 0;
+  height: 40px
 
 }
 
@@ -206,3 +207,4 @@ div.section {
     width: 100%;
   }
 }
+
